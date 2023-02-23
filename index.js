@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const {writeFile} = require('fs/promises');
-const { Triangle, Circle, Square } = require('./LIB');
+const { Triangle, Circle, Square } = require('./LIB/shape');
 const SVG = require('./LIB/SVG');
 const questions = [
   {
