@@ -6,3 +6,5 @@ SVG LOGO MAKER BY KANIKA ASTHANA
 // Add shape to SVG file based on user input
 // Add text to SVG file based on user input
  // Write SVG file to disk and print output message
+
+ Worked in study group with Cynthia, Ahmed, Jack, Tim, and Jacob 
