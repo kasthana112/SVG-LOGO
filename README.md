@@ -8,3 +8,7 @@ SVG LOGO MAKER BY KANIKA ASTHANA
  // Write SVG file to disk and print output message
 
  Worked in study group with Cynthia, Ahmed, Jack, Tim, and Jacob 
+
+ https://github.com/kasthana112/SVG-LOGO
+
+ https://kasthana112.github.io/SVG-LOGO/cd 
